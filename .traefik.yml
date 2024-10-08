@@ -1,0 +1,7 @@
+displayName: Auth Session Plugin
+type: middleware
+iconPath: .assets/icon.png
+
+import: github.com/traefik/traefik-auth-session
+
+summary: 'Auth Session Plugin'
